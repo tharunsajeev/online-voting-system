@@ -18,5 +18,6 @@
 
 7.Run the script http://localhost/voting management system
 
-username  Nurhodelta
-password  password   
+username: Nurhodelta
+
+password: password   
